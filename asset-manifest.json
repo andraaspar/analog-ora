@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/analog-ora/static/css/main.3a2c09e7.chunk.css",
+    "main.js": "/analog-ora/static/js/main.37b65ad4.chunk.js",
+    "main.js.map": "/analog-ora/static/js/main.37b65ad4.chunk.js.map",
+    "runtime~main.js": "/analog-ora/static/js/runtime~main.4af681d8.js",
+    "runtime~main.js.map": "/analog-ora/static/js/runtime~main.4af681d8.js.map",
+    "static/js/2.4ca74411.chunk.js": "/analog-ora/static/js/2.4ca74411.chunk.js",
+    "static/js/2.4ca74411.chunk.js.map": "/analog-ora/static/js/2.4ca74411.chunk.js.map",
+    "index.html": "/analog-ora/index.html",
+    "precache-manifest.841227fa55628657eb092f87974ef914.js": "/analog-ora/precache-manifest.841227fa55628657eb092f87974ef914.js",
+    "service-worker.js": "/analog-ora/service-worker.js",
+    "static/css/main.3a2c09e7.chunk.css.map": "/analog-ora/static/css/main.3a2c09e7.chunk.css.map"
+  }
+}
