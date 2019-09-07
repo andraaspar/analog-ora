@@ -1,0 +1,6 @@
+:local(.clock) {
+	display: inline-block;
+	vertical-align: top;
+	width: 70vmin;
+	margin: 4vmin 0;
+}
